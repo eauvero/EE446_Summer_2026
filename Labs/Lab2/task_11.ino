@@ -37,7 +37,7 @@ float magnitude(float x, float y, float z) {
     mag += y*y;
     mag += z*z;
 
-    return sqrt(mag);
+    return sqrtf(mag);
 }
 
 
