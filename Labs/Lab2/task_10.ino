@@ -201,7 +201,6 @@ void loop() {
         motion = mag_accel(ax, ay, az);
         prox = APDS.readProximity();
 
-        //report_raw(mic, clear, motion, prox);
         evaluate(mic, clear, motion, prox);
     }
  
