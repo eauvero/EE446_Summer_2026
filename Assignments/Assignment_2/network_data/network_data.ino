@@ -312,7 +312,7 @@ void loop() {
         delay(1000);
     }
 
-    // Delay before repeating the tests
+    // Delay before proceeding with ten samples
     delay(10000);
 
 
