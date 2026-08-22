@@ -9,3 +9,5 @@ This repository contains the following folders
 * `tflite_models`: TensorFlowLite files for the models produced in training folder.
   
 * `training`: Jupyter Notebooks used to train the models. Notebooks ran on Google Colab environment with T4 GPU runtimes.
+
+* `report`: Final project report submitted with names omitted
